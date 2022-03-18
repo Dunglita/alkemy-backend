@@ -2,7 +2,7 @@
   "name": "disney-api",
   "version": "1.0.0",
   "description": "Disney Api designed to organize movies and characters",
-  "main": "Server.js",
+  "main": "Index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
