@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Front-end side of my app",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dunglita/alkemy-backend.git"
+  },
+  "author": "Daniel Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dunglita/alkemy-backend/issues"
+  },
+  "homepage": "https://github.com/Dunglita/alkemy-backend#readme"
+}

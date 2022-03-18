@@ -1,0 +1,23 @@
+{
+  "name": "disney-api",
+  "version": "1.0.0",
+  "description": "Disney Api designed to organize movies and characters",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dunglita/alkemy-backend.git"
+  },
+  "author": "Daniel Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dunglita/alkemy-backend/issues"
+  },
+  "homepage": "https://github.com/Dunglita/alkemy-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
